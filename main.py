@@ -1,4 +1,3 @@
-
 imie = 'Magda'
 
 
