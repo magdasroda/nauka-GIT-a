@@ -1,4 +1,5 @@
 # GIT_Nauka
+<<<<<<< HEAD
 
 Projekt do nauki GIT-a
 
@@ -13,3 +14,6 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 What things you need to install the software and how to install them
+=======
+Projekt do nauki GIT-a i Pythona
+>>>>>>> faedeaa3f3e906be24ee3df9384478fcb7ef9b7b
