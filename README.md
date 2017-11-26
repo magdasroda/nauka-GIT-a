@@ -1,2 +1,2 @@
 #GIT_Nauka
-Projekt do nauki GIT 
+Projekt do nauki GIT-a i Pythona
